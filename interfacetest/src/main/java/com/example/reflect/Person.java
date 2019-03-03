@@ -59,7 +59,7 @@ public class Person {
              * param[0] = new Stirng("");
              * method.invoke(obj,param);
              *
-             *
+             * 欢迎大家使用
              */
 
         } catch (IllegalAccessException e) {
